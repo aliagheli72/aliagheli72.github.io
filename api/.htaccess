@@ -1,0 +1,9 @@
+Options -Indexes
+
+<FilesMatch "^(config|submit)\.php$">
+  Require all denied
+</FilesMatch>
+
+<Files "schema.sql">
+  Require all denied
+</Files>

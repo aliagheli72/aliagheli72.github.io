@@ -1,0 +1,3 @@
+:HL["/_next/static/css/c65b886e037e9292.css","style"]
+:HL["/media/logos/logo-white.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"sponsors","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"rim4QCD9KGzBqKbTooJgc"}
